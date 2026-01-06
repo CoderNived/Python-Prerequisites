@@ -83,4 +83,6 @@ Here’s what you’ll unlock in this repository:
 
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/<your-username>/python-complete-notes.git
+git clone https://github.com/CoderNived/Python-Prerequisites.git
+
+
