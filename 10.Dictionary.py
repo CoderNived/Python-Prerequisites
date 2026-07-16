@@ -164,3 +164,4 @@ nested = {}
 for i in range(1, 4):
     nested[i] = {"square": i**2, "cube": i**3}
 print("\nNested Dictionary:", nested)
+# this is a simple python code 
